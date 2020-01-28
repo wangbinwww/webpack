@@ -1,4 +1,4 @@
-.DS_Store
+git add README.md.DS_Store
 node_modules
 /dist
 
